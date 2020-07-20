@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_user_designation,access.hr.designation.user,model_hr_delegation,base.group_user,1,0,0,0
+access_designation_admin,access.hr.designation.admin,model_hr_delegation,base.group_erp_manager,1,1,1,1
