@@ -7,7 +7,7 @@
     'author': "Appness Technology Co.Ltd.",
     'website': "http://www.app-ness.com",
     'category': 'hr',
-    'version': '13.1.0.1',
+    'version': '12.1.0.1',
     'price': 5,
     'currency': 'USD',
     'depends': ['delegations', 'hr_holidays'],
