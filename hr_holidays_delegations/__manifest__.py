@@ -10,6 +10,7 @@
     'version': '12.1.0.1',
     'price': 5,
     'currency': 'USD',
+    'license': 'Other proprietary',
     'depends': ['delegations', 'hr_holidays'],
     'data': [
         'views/hr_leave_views.xml',

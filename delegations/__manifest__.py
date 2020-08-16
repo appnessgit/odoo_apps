@@ -10,6 +10,7 @@
     'version': '12.1.0.1',
     'price': 39,
     'currency': 'USD',
+    'license': 'Other proprietary',
     'depends': ['hr'],
     'support': 'support@app-ness.com',
     'data': [
