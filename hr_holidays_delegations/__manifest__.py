@@ -9,6 +9,7 @@
     'category': 'hr',
     'version': '13.1.0.1',
     'price': 5,
+    'license': 'Other proprietary',
     'currency': 'USD',
     'depends': ['delegations', 'hr_holidays'],
     'data': [

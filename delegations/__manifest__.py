@@ -12,6 +12,7 @@
     'currency': 'USD',
     'depends': ['hr'],
     'support': 'support@app-ness.com',
+    'license': 'Other proprietary',
     'data': [
         'data/ir_cron.xml',
         'security/ir.model.access.csv',
