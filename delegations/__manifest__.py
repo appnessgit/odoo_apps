@@ -7,7 +7,7 @@
     'author': "Appness Technology Co.Ltd.",
     'website': "http://www.app-ness.com",
     'category': 'hr',
-    'version': '1.1',
+    'version': '13.1.0.1',
     'price': 39,
     'currency': 'USD',
     'depends': ['hr'],

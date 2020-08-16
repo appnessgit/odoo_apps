@@ -1,24 +1,16 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Leave Delegations",
-
+    'name': "Delegations with Leaves",
     'summary': """
         Access Rights Delegation Link with leaves
         """,
-
-    'author': "Appness Tech.",
+    'author': "Appness Technology Co.Ltd.",
     'website': "http://www.app-ness.com",
-
-    # Categories can be used to filter modules in modules listing
-    # Check https://github.com/odoo/odoo/blob/13.0/odoo/addons/base/data/ir_module_category_data.xml
-    # for the full list
-    'category': 'custom',
-    'version': '0.1',
-
-    # any module necessary for this one to work correctly
+    'category': 'hr',
+    'version': '13.1.0.1',
+    'price': 5,
+    'currency': 'USD',
     'depends': ['delegations', 'hr_holidays'],
-    'auto_install': True,
-    # always loaded
     'data': [
         'views/hr_leave_views.xml',
     ]
