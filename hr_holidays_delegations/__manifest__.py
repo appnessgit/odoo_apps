@@ -13,5 +13,8 @@
     'depends': ['delegations', 'hr_holidays'],
     'data': [
         'views/hr_leave_views.xml',
+    ],
+    'images': [
+        'static/description/delegations.png',
     ]
 }
