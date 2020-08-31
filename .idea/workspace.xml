@@ -2,34 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aa10b5c-898c-4e5a-b575-7eb0bd4d3a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hr_holidays_delegations/static/description/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/__manifest__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/models/account_payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/models/hr_payslip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/models/res_company.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/security/ir.model.access.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/static/description/payroll_payment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/views/hr_payslip_views.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/views/res_config_settings_views.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/wizard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/wizard/hr_payroll_batchwise_register_payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/wizard/hr_payroll_batchwise_register_payment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/wizard/hr_payroll_register_payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr_payroll_payment/wizard/hr_payroll_register_payment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delegations/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/delegations/static/description/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/purchase_delivery_invoice/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/purchase_delivery_invoice/static/description/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sale_delivery_invoice/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sale_delivery_invoice/static/description/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_hr_payroll_payment/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_hr_payroll_payment/static/description/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_hr_payroll_payment/static/description/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_hr_payroll_payment/static/description/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_hr_payroll_payment/static/description/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_hr_payroll_payment/static/description/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/__manifest__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/models/account_payment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/models/hr_payslip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/models/res_company.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/security/ir.model.access.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/static/description/payroll_payment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/views/hr_payslip_views.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/views/res_config_settings_views.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/wizard/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/wizard/hr_payroll_batchwise_register_payment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/wizard/hr_payroll_batchwise_register_payment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/wizard/hr_payroll_register_payment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr_payroll_payment/wizard/hr_payroll_register_payment.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +51,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hr_holidays_delegations/static/description" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sale_delivery_invoice/static/description" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sale_delivery_invoice/static/description" />
+      <recent name="$PROJECT_DIR$/purchase_delivery_invoice/static/description" />
       <recent name="$PROJECT_DIR$/hr_holidays_delegations/static/description" />
       <recent name="$PROJECT_DIR$/hr_holidays_delegations/static" />
     </key>
@@ -75,5 +80,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2662" y="296" width="426" height="486" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597572698073" />
+    <state x="2571" y="278" width="618" height="522" key="find.popup" timestamp="1598862028511">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2571" y="278" width="618" height="522" key="find.popup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598862028511" />
   </component>
 </project>
