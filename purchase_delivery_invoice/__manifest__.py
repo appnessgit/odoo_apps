@@ -9,6 +9,8 @@
     'website': "http://www.app-ness.com",
     'category': 'account',
     'version': '13.1.0.1',
+    'price': 29,
+    'currency': 'USD',
     'depends': ['purchase_stock'],
     'data': [
         'security/ir.model.access.csv',

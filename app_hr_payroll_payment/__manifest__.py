@@ -8,6 +8,8 @@
     'website': "http://www.app-ness.com",
     'category': 'hr',
     'version': '13.1.0.1',
+    'price': 19,
+    'currency': 'USD',
     'depends': ['hr_payroll_account'],
     'data': [
         'wizard/hr_payroll_register_payment.xml',
